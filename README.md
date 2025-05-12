@@ -1,0 +1,1 @@
+Servicio Rest que emula un crud de turnos,tiene como finalidad comunicarse con el microservicio de pacientes para el otorgamiento de turnos identificado al paciente por su dni.Se utiliza Java,Spring Boot, patron MVC, patron DTO, JPA Hibernate, MySQL.Se utiliza Postman para realizar pruebas contra endpoints.
